@@ -9,7 +9,7 @@
         By creating a custom Web design for your business, we can bring your vision to life.
       </p>
       <a
-        href="contact.html"
+        href="?page=contact-us"
         class="btn"
       >
         Get Started Today
@@ -106,7 +106,7 @@
         <ul class="[&>*:not(:last-child)]:mb-3">
           <li>
             <a
-              href="about.html"
+              href="?page=abouts"
               class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100"
             >
               About
@@ -120,17 +120,10 @@
               Services
             </a>
           </li>
+     
           <li>
             <a
-              href="career.html"
-              class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100"
-            >
-              Career
-            </a>
-          </li>
-          <li>
-            <a
-              href="home-2.html"
+              href="?page=payments"
               class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100"
             >
               Payment
@@ -138,7 +131,7 @@
           </li>
           <li>
             <a
-              href="price.html"
+              href="?page=pricing"
               class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100"
             >
               Pricing
@@ -146,83 +139,25 @@
           </li>
           <li>
             <a
-              href="faq.html"
+              href="?page=faq_page"
               class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100"
             >
               Faq's
             </a>
           </li>
+      
           <li>
             <a
-              href="testimonial.html"
+              href="?page=login"
               class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100"
             >
-              Testimonials
+              Login
             </a>
           </li>
         </ul>
       </div>
-      <div class="col-span-12 lg:col-span-2 max-lg:text-center">
-        <h3 class="mb-8 font-medium text-lg">Resources</h3>
-        <ul class="[&>*:not(:last-child)]:mb-3">
-          <li>
-            <a
-              href="home-3.html"
-              class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100"
-            >
-              Banking
-            </a>
-          </li>
-          <li>
-            <a
-              href="team.html"
-              class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100"
-            >
-              Team
-            </a>
-          </li>
-          <li>
-            <a
-              href="integration.html"
-              class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100"
-            >
-              Integration
-            </a>
-          </li>
-          <li>
-            <a
-              href="blog.html"
-              class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100"
-            >
-              Blog
-            </a>
-          </li>
-          <li>
-            <a
-              href="login.html"
-              class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100"
-            >
-              Log In
-            </a>
-          </li>
-          <li>
-            <a
-              href="signup.html"
-              class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100"
-            >
-              Sign Up
-            </a>
-          </li>
-          <li>
-            <a
-              href="404.html"
-              class="relative inline-block overflow-hidden text-base capitalize text-paragraph dark:text-white before:absolute before:bottom-0 before:left-0 before:h-[1px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100"
-            >
-              404
-            </a>
-          </li>
-        </ul>
-      </div>
+   
+    
       <div class="col-span-12 lg:col-span-2 max-lg:text-center">
         <h3 class="mb-8 font-medium text-lg">Get In touch</h3>
         <p class="mb-3">Need Support?</p>

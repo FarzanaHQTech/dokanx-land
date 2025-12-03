@@ -45,11 +45,7 @@
               <h3 class="mb-2.5">Dashboard Analytics</h3>
             </a>
             <p class="mb-6">Monitor sales, customers, and orders.</p>
-            <a
-              href="services-single.html"
-              class="btn-outline btn-sm">
-              Read More
-            </a>
+           
           </div>
         </div>
 
@@ -75,11 +71,7 @@
               <h3 class="mb-2.5">Inventory Control</h3>
             </a>
             <p class="mb-6">Product and stock management.</p>
-            <a
-              href="services-single.html"
-              class="btn-outline btn-sm">
-              Read More
-            </a>
+           
           </div>
         </div>
 
@@ -103,9 +95,7 @@
               <h3 class="mb-2.5">Invoice Management</h3>
             </a>
             <p class="mb-6">Generate, print, and download invoices.</p>
-            <a
-              href="services-single.html"
-              class="btn-outline btn-sm">Read More</a>
+           
           </div>
         </div>
 
@@ -130,9 +120,7 @@
             </a>
             <p class="mb-6">
               RBAC and ABAC with custom permissions.</p>
-            <a
-              href="services-single.html"
-              class="btn-outline btn-sm">Read More</a>
+           
           </div>
         </div>
 
@@ -153,12 +141,11 @@
               href="services-single.html"
               class="block">
               <h3 class="mb-2.5">            
-Courier Integration/h3>
+                Courier Integration
+              </h3>
             </a>
-            <p class="mb-6">Steadfast courier with one-click entry.t.</p>
-            <a
-              href="services-single.html"
-              class="btn-outline btn-sm">Read More</a>
+            <p class="mb-6">Steadfast courier with one-click entry.</p>
+           
           </div>
         </div>
 
@@ -183,11 +170,7 @@ Courier Integration/h3>
               <h3 class="mb-2.5"> Theme Customization</h3>
             </a>
             <p class="mb-6">Customize website appearance and content.</p>
-            <a
-              href="services-single.html"
-              class="btn-outline btn-sm">
-              Read More
-            </a>
+           
           </div>
         </div>
       </div>

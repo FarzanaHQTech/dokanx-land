@@ -60,9 +60,9 @@
   <link rel="shortcut icon" href="assets/images/favicons/favicon.ico" type="image/x-icon" />
   <link rel="icon" href="/assets/images/dokanx-fav-black.png" type="image/x-icon" />
   <link rel="icon" href="/assets/images/dokanx-fav-black.png" />
-
-
 </head>
+
+
 
 
 <body class="relative overflow-x-hidden  text-base antialiased bg-white dark:bg-dark-300 font-Inter">
@@ -98,7 +98,7 @@
     id="mainnavigationBar">
     <nav class="container flex items-center relative">
       <div class="nav-logo xl:min-w-[100px]">
-        <a href="../index.php">
+        <a href="?page=home">
           <img src="assets/images/dokanx-black.png" class="logo-width dark:hidden" />
 
           <img
@@ -115,104 +115,12 @@
             class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 
         dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors  active">
             Home
-            <i
-              class="fa-solid fa-angle-down text-paragraph dark:text-white ml-1 group-hover:rotate-180 duration-500 mt-1"></i>
           </a>
-          <ul
-            class="absolute min-w-[250px] left-0 top-12  p-5   opacity-0 scale-y-0 origin-top duration-500 group-hover:scale-y-100 bg-white dark:bg-dark-200  group-hover:opacity-100 rounded-md [&>*:not(:last-child)]:border-b [&>*:not(:last-child)]:border-dashed [&>*:not(:last-child)]:border-borderColour dark:[&>*:not(:last-child)]:border-borderColour-dark [&>*:not(:first-child)]:mt-2.5 z-10">
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="index.html"
-                class="flex">
-                Financial Appication
-              </a>
-            </li>
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="home-2.html"
-                class="flex">
-                Payment Solution
-              </a>
-            </li>
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="home-3.html"
-                class="flex">
-                Banking Management
-              </a>
-            </li>
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="home-4.html"
-                class="flex">
-                Data Analytics
-              </a>
-            </li>
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="home-5.html"
-                class="flex">
-                Web Hosting
-              </a>
-            </li>
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="home-6.html"
-                class="flex">
-                Chat Automation
-              </a>
-            </li>
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="home-7.html"
-                class="flex">
-                Crypto Markteting
-              </a>
-            </li>
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="home-8.html"
-                class="flex">
-                AI Software
-              </a>
-            </li>
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="home-9.html"
-                class="flex">
-                Mortgage Services
-              </a>
-            </li>
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="home-10.html"
-                class="flex">
-                Email Marketing
-              </a>
-            </li>
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="home-11.html"
-                class="flex">
-                Social Media Management
-              </a>
-            </li>
-          </ul>
+       
         </li>
         <li class="group">
           <a
-            href="about.html"
+            href="?page=abouts"
             class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 
         dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors ">
             About
@@ -220,200 +128,34 @@
         </li>
         <li class="relative group">
           <a
-            href="javascript:void(0)"
+            href="?page=service_page"
             class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 
         dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors ">
             Services
-            <i
-              class="fa-solid fa-angle-down text-paragraph dark:text-white ml-1 group-hover:rotate-180 duration-500 mt-1"></i>
+        
           </a>
-          <ul
-            class="absolute min-w-[250px] left-0 top-12  p-5   opacity-0 scale-y-0 origin-top duration-500 group-hover:scale-y-100 bg-white dark:bg-dark-200  group-hover:opacity-100 rounded-md [&>*:not(:last-child)]:border-b [&>*:not(:last-child)]:border-dashed [&>*:not(:last-child)]:border-borderColour dark:[&>*:not(:last-child)]:border-borderColour-dark [&>*:not(:first-child)]:mt-2.5 z-10">
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="services.html"
-                class="flex">
-                Services
-              </a>
-            </li>
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="services-single.html"
-                class="flex">
-                Service Single
-              </a>
-            </li>
-          </ul>
+        
         </li>
-        <li class="group">
-          <a
-            href="javascript:void(0)"
-            class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 
-        dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors group">
-            Pages
-            <i
-              class="fa-solid fa-angle-down text-paragraph dark:text-white ml-1 group-hover:rotate-180 duration-500 mt-1"></i>
-          </a>
-          <div
-            class="absolute grid gap-15 text-gray-900 dark:text-white md:grid-cols-12 w-full left-0 top-[58px] p-2.5  opacity-0 scale-y-0 origin-top duration-500 group-hover:scale-y-100 bg-white dark:bg-dark-200  group-hover:opacity-100 rounded-medium shadow-lg z-10 items-center">
-            <ul
-              class="col-span-8 columns-3 gap-10 px-15 [&>*:not(:last-child)]:border-b [&>*:not(:last-child)]:border-dashed [&>*:not(:last-child)]:border-borderColour dark:[&>*:not(:last-child)]:border-borderColour-dark [&>*:not(:first-child)]:mt-2.5">
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="team.html"
-                  class="flex">
-                  team
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="team-single.html"
-                  class="flex">
-                  Team Details
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="testimonial.html"
-                  class="flex">
-                  Testimonial
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="price.html"
-                  class="flex">
-                  Price
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="career.html"
-                  class="flex">
-                  Career
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="career-single.html"
-                  class="flex">
-                  Career Single
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="faq.html"
-                  class="flex">
-                  FAQ
-                </a>
-              </li>
 
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="integration.html"
-                  class="flex">
-                  Integration
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="login.html"
-                  class="flex">
-                  Log In
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="signup.html"
-                  class="flex">
-                  Sign Up
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="404.html"
-                  class="flex">
-                  404
-                </a>
-              </li>
-            </ul>
-            <div class="col-span-4">
-              <img
-                src="assets/images/navbar.png"
-                alt="navbar"
-                class="w-full dark:hidden rounded-2xl" />
-              <img
-                src="assets/images/navbar-dark.png"
-                alt="navbar"
-                class="w-full hidden dark:block  rounded-2xl" />
-            </div>
-          </div>
+     <li class="relative group">
+          <a
+            href="?page=pricing"
+            class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 
+        dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors ">
+            Pricing
+        
+          </a>
+        
         </li>
         <li class="relative group">
           <a
-            href="javascript:void(0)"
+            href="?page=faq_page"
             class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 
-        dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors   ">
-            News
-            <i
-              class="fa-solid fa-angle-down text-paragraph dark:text-white ml-1 group-hover:rotate-180 duration-500 mt-1"></i>
+        dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors ">
+            FAQ
+        
           </a>
-          <ul
-            class="absolute min-w-[250px] left-0 top-12  p-5   opacity-0 scale-y-0 origin-top duration-500 group-hover:scale-y-100 bg-white dark:bg-dark-200  group-hover:opacity-100 rounded-md [&>*:not(:last-child)]:border-b [&>*:not(:last-child)]:border-dashed [&>*:not(:last-child)]:border-borderColour dark:[&>*:not(:last-child)]:border-borderColour-dark [&>*:not(:first-child)]:mt-2.5 z-10">
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="blog.html"
-                class="flex">
-                Blog Grid
-              </a>
-            </li>
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="blog-list.html"
-                class="flex">
-                Blog List
-              </a>
-            </li>
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="categories.html"
-                class="flex">
-                Blog Categories
-              </a>
-            </li>
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="tags.html"
-                class="flex">
-                Blog Tags
-              </a>
-            </li>
-            <li
-              class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-              <a
-                href="blog-details.html"
-                class="flex">
-                Blog Details
-              </a>
-            </li>
-          </ul>
+        
         </li>
         <li>
           <a
@@ -447,9 +189,14 @@
         </li>
         <li class="max-lg:hidden">
           <a
-            href="request-demo.html"
+            href="?page=request_demo"
             class="btn btn-navbar btn-sm">
             Request Demo
+          </a>
+          <a
+            href="?page=login"
+            class="btn-outline btn-sm">
+            Login
           </a>
         </li>
         <li class="max-lg:inline-block lg:hidden ">
@@ -484,107 +231,17 @@
         </button>
         <ul class="nav-list flex flex-col gap-5 w-full max-w-[500px] landscape:h-full relative">
           <li class="relative group faq-item">
-            <p
+            <a href="?page=home"
               class="faq-header font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 
             dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors group active">
               Home
-              <i
-                class="fa-solid fa-angle-down text-paragraph dark:text-white ml-auto group-[.open]:rotate-180 duration-500 mt-1"></i>
-            </p>
-            <ul class="faq-body close">
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="index.html"
-                  class="flex">
-                  Financial Appication
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="home-2.html"
-                  class="flex">
-                  Payment Solution
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="home-3.html"
-                  class="flex">
-                  Banking Management
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="home-4.html"
-                  class="flex">
-                  Data Analytics
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="home-5.html"
-                  class="flex">
-                  Web Hosting
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="home-6.html"
-                  class="flex">
-                  Chat Automation
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="home-7.html"
-                  class="flex">
-                  Crypto Markteting
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="home-8.html"
-                  class="flex">
-                  AI Software
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="home-9.html"
-                  class="flex">
-                  Mortgage Services
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="home-10.html"
-                  class="flex">
-                  Email Marketing
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="home-11.html"
-                  class="flex">
-                  Social Media Management
-                </a>
-              </li>
-            </ul>
+           
+</a>
+            
           </li>
           <li class="">
             <a
-              href="about.html"
+              href="?page=abouts"
               class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 
             dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors ">
               About
@@ -592,202 +249,41 @@
           </li>
           <li class="relative group faq-item">
             <p
-              href="javascript:void(0)"
+              href="?page=service_page"
               class="faq-header font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 
             dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors group ">
               Services
-              <i
-                class="fa-solid fa-angle-down text-paragraph dark:text-white ml-auto group-[.open]:rotate-180 duration-500 mt-1"></i>
+              
             </p>
-            <ul
-              class="absolute w-full min-w-[250px] left-0 top-12  p-5   opacity-0 scale-y-0 origin-top duration-500 group-hover:scale-y-100 bg-white dark:bg-dark-200  group-hover:opacity-100 rounded-md [&>*:not(:last-child)]:border-b [&>*:not(:last-child)]:border-dashed [&>*:not(:last-child)]:border-borderColour dark:[&>*:not(:last-child)]:border-borderColour-dark [&>*:not(:first-child)]:mt-2.5 z-10 faq-body close">
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="services.html"
-                  class="flex">
-                  Services
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="services-single.html"
-                  class="flex">
-                  Service Single
-                </a>
-              </li>
-            </ul>
+     
           </li>
-          <li class="relative group faq-item">
-            <p
-              href="javascript:void(0)"
-              class="faq-header font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 
-            dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors group">
-              Pages
-              <i
-                class="fa-solid fa-angle-down text-paragraph dark:text-white ml-auto group-[.open]:rotate-180 duration-500 mt-1"></i>
-            </p>
-            <div
-              class="absolute text-gray-900 dark:text-white w-full left-0 top-12 p-5  opacity-0 scale-y-0 origin-top duration-500 group-hover:scale-y-100 bg-white dark:bg-dark-200  group-hover:opacity-100 rounded-medium shadow-lg z-10 items-center faq-body close">
-              <ul class="columns-2 gap-10 mb-15">
-                <li
-                  class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                  <a
-                    href="team.html"
-                    class="flex">
-                    team
-                  </a>
-                </li>
-                <li
-                  class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                  <a
-                    href="team-single.html"
-                    class="flex">
-                    Team Details
-                  </a>
-                </li>
-                <li
-                  class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                  <a
-                    href="testimonial.html"
-                    class="flex">
-                    Testimonial
-                  </a>
-                </li>
-                <li
-                  class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                  <a
-                    href="price.html"
-                    class="flex">
-                    Price
-                  </a>
-                </li>
-                <li
-                  class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                  <a
-                    href="career.html"
-                    class="flex">
-                    Career
-                  </a>
-                </li>
-                <li
-                  class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                  <a
-                    href="career-single.html"
-                    class="flex">
-                    Career Single
-                  </a>
-                </li>
-                <li
-                  class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                  <a
-                    href="faq.html"
-                    class="flex">
-                    FAQ
-                  </a>
-                </li>
 
-                <li
-                  class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                  <a
-                    href="integration.html"
-                    class="flex">
-                    Integration
-                  </a>
-                </li>
-                <li
-                  class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                  <a
-                    href="login.html"
-                    class="flex">
-                    Log In
-                  </a>
-                </li>
-                <li
-                  class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                  <a
-                    href="signup.html"
-                    class="flex">
-                    Sign Up
-                  </a>
-                </li>
-                <li
-                  class="relative overflow-hidden text-base capitalize text-paragraph py-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                  <a
-                    href="404.html"
-                    class="flex">
-                    404
-                  </a>
-                </li>
-              </ul>
-              <div class="max-w-full">
-                <img
-                  src="assets/images/navbar.png"
-                  alt="navbar"
-                  class="w-full dark:hidden rounded-2xl" />
-                <img
-                  src="assets/images/navbar-dark.png"
-                  alt="navbar"
-                  class="w-full hidden dark:block  rounded-2xl" />
-              </div>
-            </div>
+          <li class="relative group faq-item">
+            <p
+              href="?page=pricing"
+              class="faq-header font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 
+            dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors group ">
+              Pricing
+              
+            </p>
+     
           </li>
           <li class="relative group faq-item">
             <p
-              href="javascript:void(0)"
-              class="faq-header font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors group ">
-              News
-              <i
-                class="fa-solid fa-angle-down text-paragraph dark:text-white ml-auto group-[.open]:rotate-180 duration-500 mt-1"></i>
+              href="?page=faq_page"
+              class="faq-header font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 
+            dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors group ">
+              FAQ
+              
             </p>
-            <ul
-              class="absolute w-full min-w-[250px] left-0 top-12  p-5   opacity-0 scale-y-0 origin-top duration-500 group-hover:scale-y-100 bg-white dark:bg-dark-200  group-hover:opacity-100 rounded-md [&>*:not(:last-child)]:border-b [&>*:not(:last-child)]:border-dashed [&>*:not(:last-child)]:border-borderColour dark:[&>*:not(:last-child)]:border-borderColour-dark [&>*:not(:first-child)]:mt-2.5 z-10 faq-body close">
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="blog.html"
-                  class="flex">
-                  Blog Grid
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="blog-list.html"
-                  class="flex">
-                  Blog List
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="categories.html"
-                  class="flex">
-                  Blog Categories
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="tags.html"
-                  class="flex">
-                  Blog Tags
-                </a>
-              </li>
-              <li
-                class="relative overflow-hidden text-base capitalize text-paragraph pb-2.5 before:absolute before:bottom-0 before:left-0 before:h-[2px] before:w-full before:origin-right before:scale-x-0 before:bg-paragraph dark:before:bg-white  before:transition-transform before:duration-500 before:content-[''] hover:before:origin-left hover:before:scale-x-100">
-                <a
-                  href="blog-details.html"
-                  class="flex">
-                  Blog Details
-                </a>
-              </li>
-            </ul>
+     
           </li>
+          
+
+
           <li>
             <a
-              href="contact.html"
+              href="?page=contact-us"
               class="font-Inter flex items-center text-base font-medium leading-8 text-paragraph dark:text-white py-[5px] px-5 lg:px-4 xl:px-5 border rounded-large border-transparent hover:bg-white hover:border-borderColour dark:hover:bg-dark-200 
             dark:hover:border-borderColour/10 duration-500 hover:duration-500 transition-colors  ">
               Contact Us
@@ -796,7 +292,7 @@
 
           <li>
             <a
-              href="request-demo.html"
+              href="?page=request_demo"
               class="btn btn-navbar btn-sm">
               Request Demo
             </a>

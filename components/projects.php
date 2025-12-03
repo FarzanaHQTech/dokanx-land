@@ -280,7 +280,7 @@
           </li>
         </ul>
         <a
-          href="contact.html"
+          href="?page=contact-us"
           class="btn"
         >
           Start Your Journey

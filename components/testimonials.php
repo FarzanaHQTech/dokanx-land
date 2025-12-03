@@ -229,7 +229,7 @@
 
       <div class="flex items-center justify-center">
         <a
-          href="contact.html"
+          href="?page=contact-us"
           class="btn"
         >
           Start Your jouney

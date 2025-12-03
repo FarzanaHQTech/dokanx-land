@@ -12,7 +12,7 @@
       </p>
 
       <a
-        href="contact.html"
+        href="?page=contact-us"
         class="btn-outline"
       >
         Start Your Journey
@@ -26,8 +26,10 @@
           <div
             class="flex flex-row align-center justify-center mx-auto absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2  w-[122px] h-[122px] rounded-full bg-primary-100 dark:bg-[#2B2D2A]"
           >
-            <span class="inline-block text-primary text-[30px] font-semibold py-[46px] px-[25px] leading-none">
-              aplio
+            <span class="block " style="    height: 31px; width: 74px; margin-top: 22px;">
+              <!-- DokanX -->
+               <img src="assets/images/dokanx-fav-black.png" alt="">
+               <!-- <link rel="icon" type="image/png" sizes="192x192" href=""> -->
             </span>
           </div>
         </div>
@@ -39,7 +41,7 @@
               class="flex items-center justify-center border border-dashed  border-gray-100 dark:border-borderColour-dark text-center aspect-square rounded-full 1xl:p-2.5"
             >
               <img
-                src="assets/images/twitter.svg"
+                src="assets/images/pathao.png"
                 alt="value image"
                 class="inline-block"
               />
@@ -146,7 +148,7 @@
               class="flex items-center justify-center border border-dashed  border-gray-100 dark:border-borderColour-dark text-center aspect-square rounded-full 1xl:p-2.5"
             >
               <img
-                src="assets/images/snapchat.svg"
+                src="assets/images/steadfast.svg"
                 alt="value image"
                 class="inline-block"
               />
@@ -251,7 +253,7 @@
               class="flex items-center justify-center border border-dashed  border-gray-100 dark:border-borderColour-dark text-center aspect-square rounded-full 1xl:p-2.5"
             >
               <img
-                src="assets/images/dropbox.svg"
+                src="assets/images/sslcommerce.png"
                 alt="value image"
                 class="inline-block"
               />
@@ -359,15 +361,14 @@
               class="flex items-center justify-center border border-dashed  border-gray-100 dark:border-borderColour-dark text-center aspect-square rounded-full 1xl:p-2.5"
             >
               <img
-                src="assets/images/slack.svg"
+                src="assets/images/meta.png"
                 alt="value image"
                 class="inline-block"
               />
             </div>
           </div>
           <div
-            class="w-auto leading-0 absolute max-lg:top-5 max-xl:top-[42px] top-[58px] bottom-auto right-25 left-auto -z-10"
-          >
+            class="w-auto leading-0 absolute max-lg:top-5 max-xl:top-[42px] top-[58px] bottom-auto right-25 left-auto -z-10">
             <svg
               width="100%"
               height="193"
@@ -466,9 +467,9 @@
               class="flex items-center justify-center border border-dashed  border-gray-100 dark:border-borderColour-dark text-center aspect-square rounded-full 1xl:p-2.5"
             >
               <img
-                src="assets/images/asana.svg"
+                src="assets/images/google_analy.svg"
                 alt="value image"
-                class="inline-block"
+                class="inline-block w-50" style="width: 69%;"
               />
             </div>
           </div>
@@ -571,7 +572,7 @@
               class="flex items-center justify-center border border-dashed  border-gray-100 dark:border-borderColour-dark text-center aspect-square rounded-full 1xl:p-2.5"
             >
               <img
-                src="assets/images/google-drive.svg"
+                src="assets/images/google_excel.png"
                 alt="value image"
                 class="inline-block"
               />
@@ -691,7 +692,7 @@
           class="flex items-center justify-center border border-dashed  border-gray-100 dark:border-borderColour-dark text-center aspect-square rounded-full "
         >
           <img
-            src="assets/images/dropbox.svg"
+            src="assets/images/sslcommerce.png"
             alt="value image"
             class="inline-block"
           />
@@ -703,7 +704,19 @@
           class="flex items-center justify-center border border-dashed  border-gray-100 dark:border-borderColour-dark text-center aspect-square rounded-full "
         >
           <img
-            src="assets/images/twitter.svg"
+            src="assets/images/pathao.png"
+            alt="value image"
+            class="inline-block"
+          />
+        </div>
+      </div>
+      <div class="bg-white dark:bg-dark-200 shadow-box  p-2.5 w-25 aspect-square rounded-full mx-auto">
+        <div
+          class="flex items-center justify-center border border-dashed  border-gray-100 dark:border-borderColour-dark text-center aspect-square rounded-full "
+        >
+
+          <img
+            src="assets/images/steadfast.svg"
             alt="value image"
             class="inline-block"
           />
@@ -714,7 +727,7 @@
           class="flex items-center justify-center border border-dashed  border-gray-100 dark:border-borderColour-dark text-center aspect-square rounded-full "
         >
           <img
-            src="assets/images/slack.svg"
+            src="assets/images/google_excel.png"
             alt="value image"
             class="inline-block"
           />
@@ -725,21 +738,12 @@
           class="flex items-center justify-center border border-dashed  border-gray-100 dark:border-borderColour-dark text-center aspect-square rounded-full "
         >
           <img
-            src="assets/images/google-drive.svg"
+            src="assets/images/google_analy.svg"
             alt="value image"
             class="inline-block"
           />
-        </div>
-      </div>
-      <div class="bg-white dark:bg-dark-200 shadow-box  p-2.5 w-25 aspect-square rounded-full mx-auto">
-        <div
-          class="flex items-center justify-center border border-dashed  border-gray-100 dark:border-borderColour-dark text-center aspect-square rounded-full "
-        >
-          <img
-            src="assets/images/asana.svg"
-            alt="value image"
-            class="inline-block"
-          />
+
+          
         </div>
       </div>
     </div>
